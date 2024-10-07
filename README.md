@@ -1,11 +1,10 @@
 # Hide Images
 Allows the admin to hide all images on the website by replacing them with their alt text or a default message. This plugin is intended to support World Sight Day and promote the use of the ALT parameter.
 # Upload and Install the Plugin
-- Save the hide-images-october-10.php file.
-- Use an FTP client or your hosting's file manager to upload the file to the WordPress plugins folder: /wp-content/plugins/.
+- Use an FTP client or your hosting's file manager to upload the zip file to the WordPress plugins folder: /wp-content/plugins/ocultar-imagenes.
 - Go to the WordPress admin panel.
 - Navigate to Plugins > Installed Plugins.
-- Find "Hide Images on October 10" and click Activate.
+- Find "Ocultar Imágenes" and click Activate.
 # Test the Plugin
 To make sure the plugin is working properly:
 - Navigate to Settings > Hide Images and enable image hiding by checking the box that says "Check this box to hide images from content."
@@ -28,11 +27,10 @@ To make sure the plugin is working properly:
 # Ocultar imágenes
 Permite al administrador ocultar todas las imágenes del sitio web reemplazándolas por su texto alternativo o un mensaje predeterminado. Con este plugin se quiere apoyar el Día Mundial de la vista y promover el uso del parámetro ALT.
 # Subir e instalar el plugin
-- Guarda el archivo ocultar-imagenes-10-octubre.php.
-- Utiliza un cliente FTP o el administrador de archivos de tu hosting para subir el archivo a la carpeta de plugins de WordPress: /wp-content/plugins/.
+- Utiliza un cliente FTP o el administrador de archivos de tu hosting para subir el archivo zip a la carpeta de plugins de WordPress: /wp-content/plugins/ocultar-imagenes.
 - Ve al panel de administración de WordPress.
 - Navega a Plugins > Plugins instalados.
-- Busca "Ocultar Imágenes el 10 de Octubre" y haz clic en Activar.
+- Busca "Ocultar Imágenes" y haz clic en Activar.
 # Probar el plugin
 Para asegurarte de que el plugin funciona correctamente:
 - Navega a Ajustes > Ocultar Imágenes y habilita la ocultación de imágenes marcando la casilla que dice "Marque esta casilla para ocultar las imágenes del contenido."
