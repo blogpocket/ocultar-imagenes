@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Ocultar Imágenes Manualmente
+Plugin Name: Ocultar Imágenes
 Description: Permite al administrador ocultar todas las imágenes del sitio web reemplazándolas por su texto alternativo o un mensaje predeterminado.
 Version: 1.3
 Author: A. Cambronero Blogpocket.com
