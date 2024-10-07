@@ -27,10 +27,10 @@ function reemplazar_imagen_por_alt($matches) {
         $alt_text = $alt_matches[1];
         // Verificar si el alt está vacío
         if (trim($alt_text) == '') {
-            $alt_text = 'No hay ALT [Imagen oculta en apoyo al Día Mundial de la Vista]';
+            $alt_text = 'No hay ALT';
         }
     } else {
-        $alt_text = 'No hay ALT [Imagen oculta en apoyo al Día Mundial de la Vista]';
+        $alt_text = 'No hay ALT';
     }
 
     // Devolver el texto alternativo en un párrafo
