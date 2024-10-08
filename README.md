@@ -8,6 +8,7 @@ Allows the administrator to hide all images on the website, replacing them with 
 # Test the Plugin
 To make sure the plugin is working properly:
 - Navigate to Settings > Hide Images and enable image hiding by checking the box that says "Check this box to hide images from content."
+- Enter your custom message. This message will be displayed when the image has no alt text.
 - Visit a post or page that contains images and verify that they are not displayed.
 - You may need to purge your server and/or browser cache after checking/unchecking the hide images option for the change to take effect.
 # Additional Notes
@@ -34,6 +35,7 @@ Permite al administrador ocultar todas las imágenes del sitio web, reemplazánd
 # Probar el plugin
 Para asegurarte de que el plugin funciona correctamente:
 - Navega a Ajustes > Ocultar Imágenes y habilita la ocultación de imágenes marcando la casilla que dice "Marque esta casilla para ocultar las imágenes del contenido."
+- Escribe el mensaje personalizado. Este mensaje se mostrará cuando la imagen no tenga texto alternativo.
 - Visita una publicación o página que contenga imágenes y verifica que no se muestren.
 - Es probable que tengas que purgar la caché del servidor y/o la del navegador tras marcar/desmarcar la opción de ocultación de las imágenes, para que el cambio tenga efecto.
 # Notas adicionales
