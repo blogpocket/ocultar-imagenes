@@ -11,6 +11,8 @@ To make sure the plugin is working properly:
 - Enter your custom message. This message will be displayed when the image has no alt text.
 - Visit a post or page that contains images and verify that they are not displayed.
 - You may need to purge your server and/or browser cache after checking/unchecking the hide images option for the change to take effect.
+- If you want to remove the options when deactivating the plugin, uncomment the following line
+// register_deactivation_hook(__FILE__, 'ocultar_imagenes_deactivate');
 # Additional Notes
 - Without Deleting Images: This method does not remove images from your media library or posts; it simply hides them from the user.
 - Compatibility: This plugin only affects post and page content. If you have images in widgets or elsewhere in your theme, you may need to add additional filters.
@@ -38,6 +40,8 @@ Para asegurarte de que el plugin funciona correctamente:
 - Escribe el mensaje personalizado. Este mensaje se mostrará cuando la imagen no tenga texto alternativo.
 - Visita una publicación o página que contenga imágenes y verifica que no se muestren.
 - Es probable que tengas que purgar la caché del servidor y/o la del navegador tras marcar/desmarcar la opción de ocultación de las imágenes, para que el cambio tenga efecto.
+- Si deseas eliminar las opciones al desactivar el plugin, descomenta la siguiente línea
+// register_deactivation_hook(__FILE__, 'ocultar_imagenes_deactivate');
 # Notas adicionales
 - Sin eliminar imágenes: Este método no elimina las imágenes de tu biblioteca de medios ni de tus publicaciones; simplemente las oculta al usuario.
 - Compatibilidad: Este plugin afecta únicamente al contenido de las publicaciones y páginas. Si tienes imágenes en widgets o en otras partes de tu tema, es posible que necesites añadir filtros adicionales.
