@@ -1,5 +1,5 @@
 # Hide Images
-Allows the admin to hide all images on the website by replacing them with their alt text or a default message. This plugin is intended to support World Sight Day and promote the use of the ALT parameter.
+Allows the administrator to hide all images on the website, replacing them with their alt text or a customizable default message. This plugin is intended to support World Sight Day and promote the use of the ALT parameter.
 # Upload and Install the Plugin
 - Use an FTP client or your hosting's file manager to upload the zip file to the WordPress plugins folder: /wp-content/plugins/ocultar-imagenes.
 - Go to the WordPress admin panel.
@@ -25,7 +25,7 @@ To make sure the plugin is working properly:
 ------------------------------------
 
 # Ocultar imágenes
-Permite al administrador ocultar todas las imágenes del sitio web reemplazándolas por su texto alternativo o un mensaje predeterminado. Con este plugin se quiere apoyar el Día Mundial de la vista y promover el uso del parámetro ALT.
+Permite al administrador ocultar todas las imágenes del sitio web, reemplazándolas por su texto alternativo o un mensaje predeterminado personalizable. Con este plugin se quiere apoyar el Día Mundial de la vista y promover el uso del parámetro ALT.
 # Subir e instalar el plugin
 - Utiliza un cliente FTP o el administrador de archivos de tu hosting para subir el archivo zip a la carpeta de plugins de WordPress: /wp-content/plugins/ocultar-imagenes.
 - Ve al panel de administración de WordPress.
