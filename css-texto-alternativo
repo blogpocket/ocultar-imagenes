@@ -1,0 +1,8 @@
+.texto-alternativo {
+    border: 1px solid #ccc; /* Borde de 1px con color gris */
+    background-color: #f9f9f9; /* Fondo de color gris claro */
+    padding: 10px; /* Espacio interior para separar el texto del borde */
+    margin: 10px 0; /* Espacio exterior para separar del contenido de arriba y abajo */
+    border-radius: 5px; /* Esquinas redondeadas (opcional) */
+    font-style: italic; /* Texto en cursiva (opcional) */
+}
