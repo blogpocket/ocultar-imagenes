@@ -41,7 +41,7 @@ function reemplazar_imagen_por_alt($matches) {
     }
 
     // Devolver el texto alternativo en un párrafo
-    return '<p><strong>[Imagen oculta en apoyo al Día Mundial de la Vista: ' . esc_html($alt_text) . ']</strong></p>';
+    return '<p class="texto-alternativo"><strong>[Imagen oculta en apoyo al Día Mundial de la Vista: ' . esc_html($alt_text) . ']</strong></p>';
 }
 
 // Crear la página de configuración en el menú de administración
